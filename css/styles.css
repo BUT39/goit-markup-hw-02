@@ -45,3 +45,6 @@ a {
 .contacts-link:focus {
   color: #404bbf;
 }
+.main-class {
+  background: #2e2f42;
+}
