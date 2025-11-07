@@ -68,3 +68,7 @@ a {
   color: #fff;
   cursor: pointer;
 }
+.order:hover,
+.order:focus {
+  background: #404bbf;
+}
