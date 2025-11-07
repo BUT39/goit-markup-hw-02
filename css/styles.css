@@ -10,6 +10,10 @@ ol {
 a {
   text-decoration: none;
 }
+.text-center {
+  text-align: center;
+}
+
 .logo {
   font-family: "Raleway", sans-serif;
   font-weight: 700;
